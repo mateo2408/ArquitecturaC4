@@ -82,6 +82,12 @@ Este proyecto incluye documentación exhaustiva:
 - **[DIAGRAMA_C4_GUIA.md](DIAGRAMA_C4_GUIA.md)** - Guía paso a paso para crear diagramas C4 en IcePanel.io
 - **[DESPLIEGUE.md](DESPLIEGUE.md)** - Instrucciones de despliegue local, cloud y Docker
 
+## Diagrama de arquitectura
+
+## Arquitectura del Sistema (C4 Model)
+
+[Ver diagrama interactivo en IcePanel](https://s.icepanel.io/lX9ddr2A1yuY9b/BFLt/landscape/diagrams/viewer?diagram=7WlVK1Lc5j&model=JchueokilU&overlay_tab=tags&x1=3634.9&x2=5791.3&y1=524.7&y2=1763.3)
+
 ## ✅ Requerimientos Cumplidos
 
 | Requerimiento | Estado |
