@@ -86,6 +86,8 @@ Este proyecto incluye documentación exhaustiva:
 
 ## Arquitectura del Sistema (C4 Model)
 
+![Diagrama de Arquitectura](./arquitectura-c4.png)
+
 [Ver diagrama interactivo en IcePanel](https://s.icepanel.io/lX9ddr2A1yuY9b/BFLt/landscape/diagrams/viewer?diagram=7WlVK1Lc5j&model=JchueokilU&overlay_tab=tags&x1=3634.9&x2=5791.3&y1=524.7&y2=1763.3)
 
 ## ✅ Requerimientos Cumplidos
